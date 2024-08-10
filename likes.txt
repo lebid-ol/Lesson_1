@@ -1,4 +1,4 @@
-OPACHKI CHTO TO NE TAK
+
 git test = test
 1-likes
 Changed again
